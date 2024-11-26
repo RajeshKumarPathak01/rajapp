@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RajeshKumarPathak01/rajapp/static/css/main.9a5c6096.css",
-    "main.js": "/RajeshKumarPathak01/rajapp/static/js/main.215c5ce3.js",
-    "static/js/453.3382bd29.chunk.js": "/RajeshKumarPathak01/rajapp/static/js/453.3382bd29.chunk.js",
-    "static/media/logo.svg": "/RajeshKumarPathak01/rajapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/RajeshKumarPathak01/rajapp/index.html",
-    "main.9a5c6096.css.map": "/RajeshKumarPathak01/rajapp/static/css/main.9a5c6096.css.map",
-    "main.215c5ce3.js.map": "/RajeshKumarPathak01/rajapp/static/js/main.215c5ce3.js.map",
-    "453.3382bd29.chunk.js.map": "/RajeshKumarPathak01/rajapp/static/js/453.3382bd29.chunk.js.map"
+    "main.css": "/rajapp/static/css/main.9a5c6096.css",
+    "main.js": "/rajapp/static/js/main.d5d9022f.js",
+    "static/js/453.3382bd29.chunk.js": "/rajapp/static/js/453.3382bd29.chunk.js",
+    "static/media/logo.svg": "/rajapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/rajapp/index.html",
+    "main.9a5c6096.css.map": "/rajapp/static/css/main.9a5c6096.css.map",
+    "main.d5d9022f.js.map": "/rajapp/static/js/main.d5d9022f.js.map",
+    "453.3382bd29.chunk.js.map": "/rajapp/static/js/453.3382bd29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a5c6096.css",
-    "static/js/main.215c5ce3.js"
+    "static/js/main.d5d9022f.js"
   ]
 }
