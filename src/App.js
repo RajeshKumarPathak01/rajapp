@@ -4,9 +4,6 @@ import Registeration from './component/form/Registeration';
 import Demo from './component/form/Hooks/Demo';
 
 
-
-
-
 function App() {
   return (
     <div id='root' style={{color:"white",backgroundColor:"purple"}}>
