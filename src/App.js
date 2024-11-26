@@ -9,7 +9,7 @@ import Demo from './component/form/Hooks/Demo';
 
 function App() {
   return (
-    <div style={{color:"white",backgroundColor:"purple"}}>
+    <div id='root' style={{color:"white",backgroundColor:"purple"}}>
 
       <Registeration name="rajesh" />
       {/* <Demo name="React😊💕"/> */}
